@@ -1,2 +1,5 @@
 # hello-world
-This repository is for practising
+This repository is for practicing
+
+
+Writing something about myself. 
